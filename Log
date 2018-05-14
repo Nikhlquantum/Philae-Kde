@@ -1,0 +1,19 @@
+terminal appearance
+update
+upgrade
+dist-upgrade
+gnome-disk-utility
+log in screen change
+chrome
+spotify
+vlc
+atom (run python using add-on script)
+vmware (& headers) #apt install linux-headers-$(uname -r)
+stremio
+Klavaro
+tomahawk ( cmake cmake-extra extra-cmake-modules 
+proton vpn
+apt source file changed to https (apt install apt-transport-https)
+headset app
+musixmatch
+apt install hplip ( install simple scan)
